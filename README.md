@@ -1,5 +1,5 @@
 # Classification-with-Random-Forest
-This GitHub repository presents a Random Forest-based insurance prediction model designed to accurately forecast insurance outcomes. The Random Forest algorithm, renowned for its ensemble learning technique, is employed to analyze and predict insurance-related scenarios with high accuracy and robustness.
+This GitHub repository presents a Random Forest-based prediction model designed to accurately forecast fraud-check outcomes. The Random Forest algorithm, renowned for its ensemble learning technique, is employed to analyze and predict fraud-related scenarios with high accuracy and robustness.
 
 ## Key Features:
 
@@ -18,7 +18,7 @@ Summary of experimental results showcasing the accuracy and performance metrics 
 ### Test Evaluation: 
 Evaluation of the trained Random Forest model on a separate test dataset to assess its generalization capability and real-world applicability.
 
-This repository serves as a valuable resource for data scientists, researchers, and insurance professionals interested in leveraging Random Forest algorithms for insurance prediction tasks. Contributions, feedback, and collaborations are welcome to enhance the model's accuracy and applicability in real-world scenarios.
+This repository serves as a valuable resource for data scientists and researchers interested in leveraging Random Forest algorithms for prediction tasks. Contributions, feedback, and collaborations are welcome to enhance the model's accuracy and applicability in real-world scenarios.
 
 
 
